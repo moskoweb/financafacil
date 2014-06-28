@@ -1,0 +1,9 @@
+Nome: Finança Fácil
+
+Descrição: Esqueça a complicação! Feito para quem quer controlar suas financas da maneira mais facil, rapida e descomplicada! Nao é nescessario cadastro ou conexao com internet para ultilizar o aplicativo.
+
+Autor: Laio Pinheiro developer laiopinheiro01@gmail.com
+
+Data Inicio: 21/12/2013
+
+Versao: 2.0
